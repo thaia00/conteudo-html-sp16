@@ -1,0 +1,21 @@
+h6 {
+font-size: 30px;
+font-family: monospace;
+font-weight: normal;
+color: crimson;
+
+}
+h3{
+    border: 3px solid green;
+}
+
+h3{
+    border: 3px solid orangered;
+}
+
+p{
+    border: 2px solid black;
+    margin:30px;
+}
+
+
